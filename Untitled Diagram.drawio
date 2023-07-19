@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T11:03:47.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="NA0OO_zxpuYmgdqMQQrf" version="21.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-19T11:46:55.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="ZzND2fG8D1tx3iUNKfqr" version="21.6.2" type="github" pages="6">
   <diagram name="Page-1" id="pZApGuabsZqhkbUjDLXl">
     <mxGraphModel dx="2305" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,13 +15,13 @@
         <mxCell id="vHPMJcsdyjSIWeRkd-2F-1" value="音频视频化&lt;br&gt;实时处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHPMJcsdyjSIWeRkd-2F-2" value="【MIDI 特效】&lt;br&gt;演唱数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="vHPMJcsdyjSIWeRkd-2F-2" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;演唱数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHPMJcsdyjSIWeRkd-2F-3" value="【MIDI 特效】&lt;br&gt;像素化算法模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;align=center;" parent="1" vertex="1">
+        <mxCell id="vHPMJcsdyjSIWeRkd-2F-3" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;像素化算法模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;align=center;" parent="1" vertex="1">
           <mxGeometry x="690" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vHPMJcsdyjSIWeRkd-2F-4" value="【MIDI 特效】&lt;br&gt;OpenGL Shader&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="vHPMJcsdyjSIWeRkd-2F-4" value="【MIDI 特效】&lt;br&gt;Shader 绘制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="870" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vHPMJcsdyjSIWeRkd-2F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" parent="1" edge="1" source="2SAnjMhgmzxpVoooss-a-12">
@@ -640,6 +640,29 @@
         </mxCell>
         <mxCell id="A9oiZdSwbx6MF0_XNjGi-27" value="调用" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="-210" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="b-7n_VxY0DPHcZzRuDGo" name="Page-6">
+    <mxGraphModel dx="1673" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xqZmkNwazWbuYP2FwSeA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqZmkNwazWbuYP2FwSeA-1" target="xqZmkNwazWbuYP2FwSeA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqZmkNwazWbuYP2FwSeA-1" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1. 演唱数据预处理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqZmkNwazWbuYP2FwSeA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xqZmkNwazWbuYP2FwSeA-2" target="xqZmkNwazWbuYP2FwSeA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqZmkNwazWbuYP2FwSeA-2" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. 像素化处理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqZmkNwazWbuYP2FwSeA-3" value="【MIDI 特效】&lt;br&gt;3. Shader 绘制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

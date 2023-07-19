@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T03:15:28.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="A7HJwCbG9d-NTOETtVv3" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-19T04:11:35.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="Z4Z2MW_JbHmAsZjKgmsO" version="21.6.2" type="github" pages="4">
   <diagram name="Page-1" id="pZApGuabsZqhkbUjDLXl">
     <mxGraphModel dx="1985" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,47 +172,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="60m-e5TE9de9HvdImsdb" name="Page-2">
-    <mxGraphModel dx="1938" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2244" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CNi6SshySfBsTYKv5YAR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="570" width="740" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="CNi6SshySfBsTYKv5YAR-2" value="&lt;div style=&quot;&quot;&gt;[ 模块可用 ]&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=0;verticalAlign=middle;align=center;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="160" y="570" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aucDG5PJBz3kj9iOCHBm-1" value="歌曲 MIDI 缓存池" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="150" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aucDG5PJBz3kj9iOCHBm-2" value="截取、归一化模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aucDG5PJBz3kj9iOCHBm-5" value="人声数据缓存池" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aucDG5PJBz3kj9iOCHBm-6" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;演唱数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j9eEJUn8Z5W9Cakwn51I-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1">
+        <mxCell id="j9eEJUn8Z5W9Cakwn51I-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aucDG5PJBz3kj9iOCHBm-1" target="kyxN1QG6SjfBdc6jsgLH-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="430" as="sourcePoint" />
             <mxPoint x="210" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j9eEJUn8Z5W9Cakwn51I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" target="kyxN1QG6SjfBdc6jsgLH-5">
+        <mxCell id="CNi6SshySfBsTYKv5YAR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="430" width="740" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CNi6SshySfBsTYKv5YAR-2" value="&lt;div style=&quot;&quot;&gt;演唱数据预处理主要流程&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=0;verticalAlign=middle;align=center;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aucDG5PJBz3kj9iOCHBm-1" value="声音数据&lt;br&gt;预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aucDG5PJBz3kj9iOCHBm-2" value="演唱数据&lt;br&gt;打包模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aucDG5PJBz3kj9iOCHBm-5" value="外观纹理数据&lt;br&gt;预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aucDG5PJBz3kj9iOCHBm-6" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;演唱数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9eEJUn8Z5W9Cakwn51I-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" source="aucDG5PJBz3kj9iOCHBm-5" target="kyxN1QG6SjfBdc6jsgLH-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="389.5799999999999" y="430" as="sourcePoint" />
             <mxPoint x="389.5799999999999" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j9eEJUn8Z5W9Cakwn51I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" target="kyxN1QG6SjfBdc6jsgLH-6">
+        <mxCell id="j9eEJUn8Z5W9Cakwn51I-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" source="aucDG5PJBz3kj9iOCHBm-6" target="kyxN1QG6SjfBdc6jsgLH-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="29.580000000000013" y="430" as="sourcePoint" />
             <mxPoint x="30" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDJI5WTacagM9Upm2Evi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" target="kyxN1QG6SjfBdc6jsgLH-4">
+        <mxCell id="dDJI5WTacagM9Upm2Evi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" source="aucDG5PJBz3kj9iOCHBm-2" target="kyxN1QG6SjfBdc6jsgLH-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569.4999999999999" y="430" as="sourcePoint" />
             <mxPoint x="569.4999999999999" y="840" as="targetPoint" />
@@ -227,37 +227,19 @@
         <mxCell id="KXZYS2L_PI1p6My78XPE-2" value="请求预处理演唱数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-110" y="440" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KXZYS2L_PI1p6My78XPE-3" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="520" as="sourcePoint" />
-            <mxPoint x="30" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KXZYS2L_PI1p6My78XPE-4" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;返回模块可用性&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="490" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KXZYS2L_PI1p6My78XPE-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="490" as="sourcePoint" />
             <mxPoint x="210" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KXZYS2L_PI1p6My78XPE-6" value="检测是否有歌曲 MIDI 缓存" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="KXZYS2L_PI1p6My78XPE-6" value="处理歌曲、人声数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="460" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KXZYS2L_PI1p6My78XPE-7" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="540" as="sourcePoint" />
-            <mxPoint x="-150" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KXZYS2L_PI1p6My78XPE-8" value="请求预处理演唱数据失败" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="510" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KXZYS2L_PI1p6My78XPE-9" value="调用" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KXZYS2L_PI1p6My78XPE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" target="kyxN1QG6SjfBdc6jsgLH-7">
+        <mxCell id="KXZYS2L_PI1p6My78XPE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;strokeColor=#CCE5FF;" edge="1" parent="1" source="KXZYS2L_PI1p6My78XPE-9" target="kyxN1QG6SjfBdc6jsgLH-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-150.42" y="430" as="sourcePoint" />
             <mxPoint x="-150.42" y="840" as="targetPoint" />
@@ -265,51 +247,51 @@
         </mxCell>
         <mxCell id="GbXpszQqG5kja7fHfziR-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="630" as="sourcePoint" />
-            <mxPoint x="390" y="630" as="targetPoint" />
+            <mxPoint x="210" y="510" as="sourcePoint" />
+            <mxPoint x="390" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GbXpszQqG5kja7fHfziR-2" value="准备获取当前人声数据" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="100" height="30" as="geometry" />
+        <mxCell id="GbXpszQqG5kja7fHfziR-2" value="根据声音数据，&lt;br&gt;获取外观纹理信息" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="480" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GbXpszQqG5kja7fHfziR-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="650" as="sourcePoint" />
-            <mxPoint x="570" y="650" as="targetPoint" />
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="570" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GbXpszQqG5kja7fHfziR-4" value="截取当前视频帧所需数据，&lt;br&gt;执行数据归一化操作" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="430" y="620" width="100" height="30" as="geometry" />
+        <mxCell id="GbXpszQqG5kja7fHfziR-4" value="将声音、外观纹理数据，&lt;br&gt;进行打包处理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kyxN1QG6SjfBdc6jsgLH-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="679.58" as="sourcePoint" />
-            <mxPoint x="-150" y="679.58" as="targetPoint" />
+            <mxPoint x="570" y="559.58" as="sourcePoint" />
+            <mxPoint x="-150" y="559.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kyxN1QG6SjfBdc6jsgLH-2" value="请求预处理演唱数据成功" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="100" height="29.58" as="geometry" />
+          <mxGeometry x="160" y="530" width="100" height="29.58" as="geometry" />
         </mxCell>
         <mxCell id="kyxN1QG6SjfBdc6jsgLH-3" value="歌曲 MIDI 缓存池" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="150" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kyxN1QG6SjfBdc6jsgLH-4" value="截取、归一化模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="510" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="kyxN1QG6SjfBdc6jsgLH-4" value="数据打包模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kyxN1QG6SjfBdc6jsgLH-5" value="人声数据缓存池" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="330" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kyxN1QG6SjfBdc6jsgLH-6" value="【MIDI 特效】&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;演唱数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kyxN1QG6SjfBdc6jsgLH-7" value="调用" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;strokeColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="qjraHZf-zBHZ5zjcButV" name="Page-3">
-    <mxGraphModel dx="2155" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
